@@ -10,3 +10,4 @@ PySide2
 Qt.Py
 
 aqtinstall
+py7zr>=0.17.3 # not directly required, pinned by Snyk to avoid a vulnerability
